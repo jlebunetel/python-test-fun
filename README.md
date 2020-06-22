@@ -19,7 +19,7 @@ $ make install
 ```
 
 ## Tech/framework used
-* [unittest](https://docs.python.org/fr/3/library/unittest.html) : the unit testing framework;
+* [unittest](https://docs.python.org/en/3/library/unittest.html) : the unit testing framework;
 * [pytest](https://docs.pytest.org/en/stable/) : a framework which makes it easy to write small tests.
 
 ## Versioning
