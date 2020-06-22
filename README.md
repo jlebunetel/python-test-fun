@@ -20,6 +20,7 @@ $ make install
 
 ## Tech/framework used
 * [unittest](https://docs.python.org/fr/3/library/unittest.html) : the unit testing framework;
+* [pytest](https://docs.pytest.org/en/stable/) : a framework which makes it easy to write small tests.
 
 ## Versioning
 We use [SemVer](http://semver.org/) for versioning. See the [CHANGELOG.md](CHANGELOG.md) file for details.
