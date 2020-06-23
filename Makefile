@@ -19,4 +19,4 @@ venv:
 
 .PHONY: run_tests
 run_tests:
-	PYTHONPATH=. venv/bin/python tests/sandbox/test_hello_world.py
+	PYTHONPATH=. venv/bin/pytest
